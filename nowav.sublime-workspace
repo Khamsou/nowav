@@ -1,0 +1,1132 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"graphics",
+				"love.graphics.setColor"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"gra",
+				"love.graphics.origin"
+			],
+			[
+				"graphi",
+				"love.graphics.circle"
+			],
+			[
+				"draw",
+				"draw_bat"
+			],
+			[
+				"for",
+				"forall\tfor-in-all"
+			],
+			[
+				"GetComponentIn",
+				"GetComponentInParent<T>()\tT"
+			],
+			[
+				"Bullet",
+				"BulletClone\tGameObject"
+			],
+			[
+				"Vecto",
+				"Vector3(float x, float y, float z)\tVector3(float x, float y, float z)"
+			],
+			[
+				"Bull",
+				"BulletEmitter\tGameObject"
+			],
+			[
+				"Eu",
+				"Euler(float x, float y, float z)\tQuaternion"
+			],
+			[
+				"GetCo",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Instantiate",
+				"Instantiate(Object original, Transform parent)\tObject"
+			],
+			[
+				"Vector",
+				"Vector3\tVector3"
+			],
+			[
+				"texture",
+				"Texture2D\tTexture2D"
+			],
+			[
+				"R",
+				"Raycast(Vector3 origin, Vector3 direction)\tbool"
+			],
+			[
+				"Get",
+				"GetButtonDown(string buttonName)\tbool"
+			],
+			[
+				"G",
+				"GetButton(string buttonName)\tbool"
+			],
+			[
+				"Texture",
+				"Texture2D\tTexture2D"
+			],
+			[
+				"Cursor",
+				"CursorLockMode\tCursorLockMode"
+			],
+			[
+				"Spe",
+				"SpeedMov\tfloat"
+			],
+			[
+				"transf",
+				"TransformDirection(Vector3 direction)\tVector3"
+			],
+			[
+				"loca",
+				"localEulerAngles\tVector3 { get; set; }"
+			],
+			[
+				"_x",
+				"_xRot\tfloat"
+			],
+			[
+				"_",
+				"_cameraObj\tTransform"
+			],
+			[
+				"Spee",
+				"SpeedRot\tfloat"
+			],
+			[
+				"Add",
+				"AddTorque(Vector3 torque)\tvoid"
+			],
+			[
+				"rot",
+				"rotation\tQuaternion { get; set; }"
+			],
+			[
+				"Pl",
+				"Player\tGameObject"
+			],
+			[
+				"E",
+				"eulerAngles\tVector3 { get; set; }"
+			],
+			[
+				"Eul",
+				"ToEuler()\tVector3"
+			],
+			[
+				"lo",
+				"localScale\tVector3 { get; set; }"
+			],
+			[
+				"_zR",
+				"_zRotNew\tfloat"
+			],
+			[
+				"get",
+				"GetAxis(string axisName)\tfloat"
+			],
+			[
+				"_xR",
+				"_xRotNew\tfloat"
+			],
+			[
+				"tr",
+				"Translate(Vector3 translation)\tvoid"
+			],
+			[
+				"a",
+				"AddTorque(Vector3 torque)\tvoid"
+			],
+			[
+				"vector",
+				"Vector3\tVector3"
+			],
+			[
+				"GetA",
+				"GetAxis(string axisName)\tfloat"
+			],
+			[
+				"getcomp",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Find",
+				"FindGameObjectsWithTag(string tag)\tGameObject[]"
+			],
+			[
+				"f",
+				"FindWithTag(string tag)\tGameObject"
+			],
+			[
+				"Unit",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"Vec",
+				"Vector3(float x, float y, float z)\tVector3(float x, float y, float z)"
+			],
+			[
+				"vertical",
+				"verticalCentre2"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"success",
+				"successechantillon"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"Where",
+				"WhereController"
+			],
+			[
+				"dispo",
+				"dispoproduit"
+			],
+			[
+				"rec",
+				"recette-begin"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"resumepri",
+				"resumeprixsachet"
+			],
+			[
+				"resume",
+				"resumeprixkg"
+			],
+			[
+				"comm",
+				"commandestype"
+			],
+			[
+				"commandes",
+				"commandestype"
+			],
+			[
+				"som",
+				"sommetotale"
+			],
+			[
+				"hidden",
+				"hiddentotal"
+			],
+			[
+				"resumepr",
+				"resumeprixsachet"
+			],
+			[
+				"comman",
+				"commandesprixred"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"arial",
+				"arialrounded"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"prix",
+				"prix_sachet"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"txe",
+				"text-align"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"REcette",
+				"RecetteController"
+			],
+			[
+				"creat",
+				"created_at"
+			],
+			[
+				"public",
+				"public_path"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"request",
+				"request"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"pr",
+				"produit"
+			],
+			[
+				"sele",
+				"select-recette"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"img",
+				"img_min"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Users",
+				"UsersCreateRequest"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"trois",
+				"trois"
+			],
+			[
+				"l",
+				"lengthtime"
+			],
+			[
+				"type",
+				"typeAnswer"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/love-run.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "love",
+		"selected_items":
+		[
+			[
+				"love",
+				"Build With: LuaLove"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"run",
+				"PICO-8: Run Cartridge"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"set syntax love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"love ",
+				"Build With: LuaLove"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"Set Syntax: Lua (Love)",
+			"lua",
+			"Set Synta Lua (Love)",
+			"Set Syntax Lua (Love)",
+			"Set Syntax: Lua (Love)",
+			"Set Syntax:Lua(Love)",
+			"Set Syntax:Lua (Love)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/nowav"
+	],
+	"file_history":
+	[
+		"/D/Projects/nowav/nowav.sublime-project",
+		"/D/Projects/pico8_manual.txt",
+		"/D/Écriture/citations/rimbaud-la-gauche.txt",
+		"/D/Projects/firewalkwithme/BuckAndFlamy/readme.txt",
+		"/D/Projects/nowav/nowav/Assets/Scripts/script.cs",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/menu.lua",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/game.lua",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/flamy.lua",
+		"/D/Projects/firewalkwithme/tile/level3.lua",
+		"/D/Projects/firewalkwithme/tile/level4.lua",
+		"/D/Projects/firewalkwithme/tile/level2.lua",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/buck.lua",
+		"/C/Users/Khamsou'/Desktop/Fusion Ludum Dare/flamy.lua",
+		"/C/Users/Khamsou'/Desktop/OLD Buck and Flamy.love/flamy.lua",
+		"/C/Users/Khamsou'/Desktop/Buck and Flamy.love/game.lua",
+		"/C/Users/Khamsou'/Desktop/Buck and Flamy.love/flamy.lua",
+		"/C/Users/Khamsou'/Desktop/Buck and Flamy.love/buck.lua",
+		"/C/Users/Khamsou'/Desktop/big smoke/main.lua",
+		"/C/Users/Khamsou'/Desktop/experiment_particle/main.lua",
+		"/C/Users/Khamsou'/Desktop/Buck and Flamy.love/conf.lua",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/musicManager.lua",
+		"/C/Users/Khamsou'/Desktop/Ludum Dare/main.lua",
+		"/D/Projects/firewalkwithme/tile/level.lua",
+		"/D/Projects/firewalkwithme/tile/tttlua.lua",
+		"/C/Users/Khamsou'/Desktop/pouet pouet les gros camions/buck.lua",
+		"/C/Users/Khamsou'/Desktop/pouet pouet les gros camions/main.lua",
+		"/C/Users/Khamsou'/Desktop/pouet pouet les gros camions/flamy.lua",
+		"/C/Users/Khamsou'/Desktop/pouet pouet les gros camions/game.lua",
+		"/C/Users/Khamsou'/Desktop/pouet pouet les gros camions/conf.lua",
+		"/C/Users/Khamsou'/Desktop/experiment_sin/main.lua",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/cheremi/cheremi.p8",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/spline/quadratic.p8",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/tuto/tuto.p8",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/rnd/spline.p8",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/demos/collide.p8",
+		"/C/Users/Khamsou'/Desktop/experiment_warp/main.lua",
+		"/C/Users/Khamsou'/Desktop/experiment/main.lua",
+		"/C/Program Files/LOVE/experiment/main.lua",
+		"/C/Program Files/LOVE/experiment/conf.lua",
+		"/C/Users/Khamsou'/Desktop/conf.lua",
+		"/D/Projects/firewalkwithme/experiment/main.lua",
+		"/C/Users/Khamsou'/AppData/Roaming/Sublime Text 3/Packages/Lua Love/LuaLove.sublime-build",
+		"/C/Users/Khamsou'/AppData/Roaming/Sublime Text 3/Packages/LaTeX/Snippets/section-..-(section).sublime-snippet",
+		"/C/Users/Khamsou'/AppData/Roaming/Sublime Text 3/Packages/LaTeX/LaTeX.sublime-settings",
+		"/D/Jeux indés/orchids to dusk - win/readme.txt",
+		"/D/Cours/M1/Mémoire/Recherche/t160 - La Société du Spectacle - Guy Debord.txt",
+		"/D/Projects/gettingbetter.txt",
+		"/C/Users/Khamsou'/AppData/Roaming/pico-8/carts/demos/hello.p8",
+		"/C/Program Files (x86)/Steam/userdata/49115604/295750/remote/jellySave",
+		"/D/Cours/M1/S2 - Arrault/Corpus iconographiques/Every 5 years the same dream.txt",
+		"/D/Projects/vote/files/title.json",
+		"/D/Projects/vote/files/name0.json",
+		"/D/Projects/nipatrienipatron/Assets/Scripts/test.cs",
+		"/D/Cours/M1/Labyrinthe/situationnistes_et_design_moleculaire.txt",
+		"/D/Projects/vote/version/1.0/vote_utile/data.js",
+		"/D/Projects/vote/version/1.0/vote_utile/c2runtime.js",
+		"/D/Cours/M1/Labyrinthe/Cours1.txt",
+		"/C/Users/Khamsou'/Documents/reves/Cauchemars",
+		"/C/Users/Khamsou'/Documents/reves/le gamin",
+		"/D/Projects/vote/files/year0.json",
+		"/D/Projects/gbjam/fonts/stylesheet.css",
+		"/D/Projects/vote/files/font/stylesheet.css",
+		"/D/Projects/vote/files/dialogue.csv",
+		"/D/Cours/M1/S2 - Arrault/recherche.txt",
+		"/D/Projects/aeroport/aeroport.txt",
+		"/D/Projects/vote/doc/Every 5 years the same dream.txt",
+		"/D/Projects/vote/year0.json",
+		"/D/Projects/vote/name0.json",
+		"/D/Projects/pico8_code/tinytv.lua",
+		"/D/Projects/pico8_code/collision.lua",
+		"/D/Projects/pico8_code/-- ~perisher~ by daniel linssen.lua",
+		"/D/Cours/M1/Penser la vitesse - Virilio.txt",
+		"/C/Users/Khamsou'/Documents/LP jeu vidéo/Siegel/Cours 3.txt",
+		"/D/Projects/Idées/In control of freedom.txt",
+		"/C/Users/Khamsou'/AppData/Local/Temp/data.json",
+		"/D/Projects/vote/year0",
+		"/G/c2license.txt",
+		"/C/Users/Khamsou'/Desktop/dico.txt",
+		"/C/Users/Khamsou'/Desktop/35782.p8.png",
+		"/D/Cours/M1/W123AP5 - Villagordo/sweetheart/dialogue/sms.csv",
+		"/D/Cours/M1/Recherche/Agamben - Poesie",
+		"/C/Users/Khamsou'/Documents/LP jeu vidéo/Siegel/Cours 2.txt",
+		"/C/Users/Khamsou'/Documents/LP jeu vidéo/Siegel/Cours 1.txt",
+		"/D/Cours/M1/W123AP5 - Villagordo/sweetheart/dialogue/dialogue.csv",
+		"/D/Cours/M1/W123AP5 - Villagordo/TORRES_Vincent_W123AP5_2016_2017/commentJouer.txt",
+		"/D/Cours/M1/W123AP5 - Villagordo/TORRES_Vincent_W123AP5_2016_2017/TORRES_Vincent_W123AP5_2016_2017_commentJouer.txt",
+		"/C/Users/Khamsou'/Desktop/Hang Up/commentJouer.txt",
+		"/C/Program Files/Construct 2/c2license.txt",
+		"/D/Cours/M1/W123AP5 - Villagordo/sweetheart/css/stylesheet.css",
+		"/D/Projects/youjam/build/1.02/m5x7.css",
+		"/D/Cours/M1/W123AP5 - Villagordo/sweetheart/css/specimen_files/specimen_stylesheet.css",
+		"/C/Program Files/Construct 2/exporters/html5/plugins/rex_csv2array/common.js",
+		"/C/Program Files/Construct 2/exporters/html5/plugins/rex_csv2dictionary/rex_csv2dictionary/common.js",
+		"/D/Cours/M1/ptut/Fait total.txt",
+		"/D/Projects/youjam/csv/ddd.csv",
+		"/D/Projects/youjam/recherche.txt",
+		"/C/Users/Khamsou'/Dropbox/NuagePaille/youjam/idées.txt",
+		"/D/Projects/rottingmeat/rottingmeat/Assets/Scripts/verBehaviour.cs",
+		"/D/Projects/youjam/webfontkit-20161116-231028/stylesheet.css",
+		"/D/Emulation/N64/Roms/Little Readme.txt",
+		"/D/Projects/vaporshooter/vaporshooter/vaporshooter.sublime-project",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CameraController.cs",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CursorController.cs",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/AimAndUseController.cs",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CharacterController.cs",
+		"/C/Users/Khamsou'/Documents/Cauchemars",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/Move.cs",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/Cursor.cs",
+		"/D/Projects/grafizzz/Grafizzzz/Assets/Scripts/playerBehaviour.cs",
+		"/D/Projects/monkeyball/monkeyball/Assets/scripts/BallBehaviour.cs",
+		"/D/Projects/monkeyball/monkeyball/Assets/scripts/CameraController.cs",
+		"/D/Projects/vaporshooter/vapor shooter/Assets/Scripts/Move.cs",
+		"/D/Projects/monkeyball/monkeyball/Assets/scripts/CollectibleBehaviour.cs",
+		"/D/Projects/monkeyball/monkeyball/Assets/scripts/PlatformController.cs",
+		"/C/Users/Khamsou'/Desktop/albums espagnols",
+		"/C/Users/Khamsou'/Documents/LP jeu vidéo/idées/jeux olympiques",
+		"/C/Users/Khamsou'/Documents/LP jeu vidéo/idées/Les chants de Maldoror",
+		"/D/Cours/M1/Idées/Un Chien Andalou.txt",
+		"/D/Cours/M1/Idées/post-democratie_vaporwave.txt",
+		"/D/Projects/monkeyball/monkeyball/Assets/scripts/collectibleBehaviour.cs",
+		"/D/Projects/monkeyball/monkeyball/monkeyball.sublime-project",
+		"/D/Projects/monkeyball/monkeyball/monkeyball.sln",
+		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/aireJeuScreen.css",
+		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/common.css",
+		"/C/Users/Khamsou'/Desktop/aireJeu.ascx",
+		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/accueil.css",
+		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/connexion.css",
+		"/C/Users/Khamsou'/Desktop/menuPrincipal.aspx"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\kirbytest\\assets\\css",
+			"C:\\wamp\\www\\bookings-student",
+			"C:\\wamp\\www\\kamphotchilipepper",
+			"C:\\wamp\\www\\komodo",
+			"C:\\wamp\\www\\kamphotchilipepper",
+			"C:\\wamp\\www\\komodo\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"C:\\wamp\\www\\komodo\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation",
+			"C:\\wamp\\www\\komodo",
+			"C:\\wamp\\www\\admin",
+			"C:\\wamp\\www\\stravaigers-slim",
+			"C:\\wamp\\www\\eMessages\\1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"67",
+			"speed",
+			"dt",
+			"id.c",
+			"psystem",
+			"Flam",
+			"flam",
+			"Flam",
+			"stop",
+			"SetDirection",
+			"ParticleSystem",
+			"psystem",
+			"fire",
+			"Flamy",
+			"Buck",
+			"and not love.keyboard",
+			"print",
+			"-1",
+			"buck.y",
+			"dt",
+			"print",
+			"burn",
+			"timer",
+			"flamy.speed",
+			"timer",
+			"print",
+			"timer",
+			"flamy.speed",
+			"speed",
+			"print",
+			"flamy.speed",
+			"sin",
+			"x",
+			"player.radius/2",
+			"circle",
+			"player.radius",
+			"smoke",
+			"t",
+			"bat.",
+			"!",
+			"rotate",
+			"debug",
+			"local",
+			"p",
+			"character",
+			"tv_draw_t",
+			"tv_draw",
+			"tv_add_te",
+			"called",
+			"tv_t",
+			"y",
+			"tv_t",
+			"204",
+			"is_solid",
+			"bounce",
+			"stop",
+			"is_solid",
+			"solid_at",
+			"is_solid",
+			"bounce",
+			"print",
+			"platform",
+			"is_solid",
+			"jump",
+			"str",
+			"print",
+			"spr",
+			"spr(",
+			"is_solid",
+			"on_ground",
+			"ice",
+			"ground",
+			"colli",
+			"actor",
+			"mid(",
+			"print(",
+			"write",
+			"write(",
+			"write",
+			"print",
+			"btn",
+			"sous",
+			"fichier",
+			"métap",
+			"compa",
+			"figure",
+			"\"",
+			"Rigidbody",
+			"50",
+			"_cameraObj",
+			"x",
+			"xRot",
+			"New",
+			"_zRotNew",
+			"Rot",
+			"modulebottom",
+			"\tpadding:5px;\n\tpadding-top:20px;",
+			"header",
+			"modulebottom",
+			"max",
+			"moduleBottom",
+			"                    <div class=\"verticalCentre\">\n                        \n                    </div>",
+			"moduleTop",
+			"colonne",
+			"family",
+			"font-family:",
+			"font-f",
+			"1em",
+			"menutop",
+			"line-h",
+			"14px",
+			"32",
+			"padding",
+			"2px",
+			"28px",
+			"divmenutop",
+			"background",
+			"/*insérer",
+			"woff2",
+			"sans",
+			".otf')",
+			"/font",
+			"banniere",
+			"ente",
+			"cadre",
+			"font-fa",
+			"font-fam",
+			"font-f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 203.0
+	},
+	"pinned_build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"project": "nowav.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$constructor"
+			]
+		],
+		"width": 1165.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
