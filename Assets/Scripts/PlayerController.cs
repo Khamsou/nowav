@@ -48,10 +48,10 @@ public class PlayerController : MonoBehaviour {
 
 			print(_rb.velocity.y);
 		// Saut
-		// if (Input.GetButtonDown("Jump") && isGrounded()) {
-		// 	print("jump");
-		// 	_rb.AddForce(Vector3.up * JumpForce * (Time.deltaTime*60), ForceMode.Impulse);
-		// }
+		if (Input.GetButtonDown("Jump") && isGrounded()) {
+			print("jump");
+			_rb.AddForce(Vector3.up * JumpForce * (Time.deltaTime*60), ForceMode.Impulse);
+		}
 
 		// Rotation
 		if (Input.GetButton("Horizontal") || Input.GetButton("Vertical")) {
