@@ -61,9 +61,13 @@ public class PlayerController : MonoBehaviour {
 		_yRot = Mathf.Atan2(_lastXMov, _lastZMov) * (180 / Mathf.PI);
 		transform.localEulerAngles = new Vector3(_rotation.x, _yRot, _rotation.z);
 
+
+	}
+
+	void LateUpdate() {
 		// Caméra
 		_camera.position = new Vector3(transform.position.x + _cameraOffset.x, transform.position.y + _cameraOffset.y, transform.position.z + _cameraOffset.z);
-
+		
 	}
 
 	bool isGrounded() {

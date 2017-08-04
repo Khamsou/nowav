@@ -523,7 +523,7 @@
 			"file": "Assets/Scripts/PlayerController.cs",
 			"settings":
 			{
-				"buffer_size": 1907,
+				"buffer_size": 1895,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Unix"
 			}
@@ -1068,15 +1068,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1907,
+						"buffer_size": 1895,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								148,
-								151
+								1400,
+								1400
 							]
 						],
 						"settings":
@@ -1092,7 +1092,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 600.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
