@@ -4,6 +4,78 @@
 		"selected_items":
 		[
 			[
+				"Vector",
+				"Vector3\tVector3"
+			],
+			[
+				"Raycast",
+				"Raycast(Vector3 origin, Vector3 direction, float maxDistance)\tbool"
+			],
+			[
+				"_xmo",
+				"_xMove\tfloat"
+			],
+			[
+				"_xm",
+				"_xMove\tfloat"
+			],
+			[
+				"_pick",
+				"_pickedItem\tGameObject"
+			],
+			[
+				"pi",
+				"_pickedItem\tGameObject"
+			],
+			[
+				"GetB",
+				"GetButtonDown(string buttonName)\tbool"
+			],
+			[
+				"_came",
+				"_cameraOffset\tVector3"
+			],
+			[
+				"VE",
+				"Vector3\tVector3"
+			],
+			[
+				"Vectr",
+				"Vector3()\tVector3()"
+			],
+			[
+				"Vect",
+				"Vector3\tVector3"
+			],
+			[
+				"getComp",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"Vec",
+				"Vector3\tVector3"
+			],
+			[
+				"get",
+				"GetKeyDown(string name)\tbool"
+			],
+			[
+				"lo",
+				"Log(object message)\tvoid"
+			],
+			[
+				"trans",
+				"Transform\tTransform"
+			],
+			[
+				"Mes",
+				"MeshCollider\tMeshCollider"
+			],
+			[
+				"_",
+				"_xMove\tfloat"
+			],
+			[
 				"graphics",
 				"love.graphics.setColor"
 			],
@@ -56,10 +128,6 @@
 				"Instantiate(Object original, Transform parent)\tObject"
 			],
 			[
-				"Vector",
-				"Vector3\tVector3"
-			],
-			[
 				"texture",
 				"Texture2D\tTexture2D"
 			],
@@ -100,10 +168,6 @@
 				"_xRot\tfloat"
 			],
 			[
-				"_",
-				"_cameraObj\tTransform"
-			],
-			[
 				"Spee",
 				"SpeedRot\tfloat"
 			],
@@ -128,16 +192,8 @@
 				"ToEuler()\tVector3"
 			],
 			[
-				"lo",
-				"localScale\tVector3 { get; set; }"
-			],
-			[
 				"_zR",
 				"_zRotNew\tfloat"
-			],
-			[
-				"get",
-				"GetAxis(string axisName)\tfloat"
 			],
 			[
 				"_xR",
@@ -174,10 +230,6 @@
 			[
 				"Unit",
 				"UnityEngine\tUnityEngine"
-			],
-			[
-				"Vec",
-				"Vector3(float x, float y, float z)\tVector3(float x, float y, float z)"
 			],
 			[
 				"vertical",
@@ -462,63 +514,38 @@
 			[
 				"paddin",
 				"padding-bottom"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"tx",
-				"text-align"
-			],
-			[
-				"min",
-				"min-height"
-			],
-			[
-				"inlin",
-				"inline-block"
-			],
-			[
-				"print",
-				"print_r"
-			],
-			[
-				"Users",
-				"UsersCreateRequest"
-			],
-			[
-				"if",
-				"if\tif …"
-			],
-			[
-				"remo",
-				"removeClass"
-			],
-			[
-				"trois",
-				"trois"
-			],
-			[
-				"l",
-				"lengthtime"
-			],
-			[
-				"type",
-				"typeAnswer"
-			],
-			[
-				"n",
-				"nowrap"
-			],
-			[
-				"backg",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "Assets/Scripts/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 1907,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/grabItem.cs",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Scripts/isColliding.cs",
+			"settings":
+			{
+				"buffer_size": 714,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -725,10 +752,14 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Projects/nowav"
+		"/D/Projects/nowav",
+		"/D/Projects/nowav/Assets",
+		"/D/Projects/nowav/Assets/Scripts"
 	],
 	"file_history":
 	[
+		"/D/Projects/nowav/Assets/Scripts/CameraController.cs",
+		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CharacterController.cs",
 		"/D/Projects/nowav/nowav.sublime-project",
 		"/D/Projects/pico8_manual.txt",
 		"/D/Écriture/citations/rimbaud-la-gauche.txt",
@@ -833,7 +864,6 @@
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CameraController.cs",
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CursorController.cs",
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/AimAndUseController.cs",
-		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CharacterController.cs",
 		"/C/Users/Khamsou'/Documents/Cauchemars",
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/Move.cs",
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/Cursor.cs",
@@ -855,12 +885,11 @@
 		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/common.css",
 		"/C/Users/Khamsou'/Desktop/aireJeu.ascx",
 		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/accueil.css",
-		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/connexion.css",
-		"/C/Users/Khamsou'/Desktop/menuPrincipal.aspx"
+		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/connexion.css"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -885,6 +914,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_rb",
+			"collider",
+			"_pickedItem",
+			"z",
+			"X",
+			"x",
+			"_rot",
+			"movement",
+			"otherTag",
+			"string",
+			"_isOverlapping",
+			"isOverlapping",
+			"parent",
+			"_grabCollider",
 			"67",
 			"speed",
 			"dt",
@@ -998,21 +1041,7 @@
 			"14px",
 			"32",
 			"padding",
-			"2px",
-			"28px",
-			"divmenutop",
-			"background",
-			"/*insérer",
-			"woff2",
-			"sans",
-			".otf')",
-			"/font",
-			"banniere",
-			"ente",
-			"cadre",
-			"font-fa",
-			"font-fam",
-			"font-f"
+			"2px"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1030,8 +1059,120 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/PlayerController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								151
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"182,187": "'Speed' should start with a lower case letter. (Rule 'Fields')",
+								"26,31": "Using directive is not used by code and can be removed safely.",
+								"287,296": "'JumpForce' should start with a lower case letter. (Rule 'Fields')"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/grabItem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								730
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"1218,1226": "Parameter can be declared with base type",
+								"135,141": "'Thrust' should start with a lower case letter. (Rule 'Fields')",
+								"1357,1365": "Parameter can be declared with base type",
+								"169,174": "Initializing field by default value is redundant",
+								"26,31": "Using directive is not used by code and can be removed safely.",
+								"93,101": "'grabItem' should start with an upper case letter. (Rule 'Types')"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Scripts/isColliding.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"183,187": "'this.' is redundant and can be removed safely.",
+								"26,31": "Using directive is not used by code and can be removed safely.",
+								"320,328": "Parameter can be declared with base type",
+								"631,639": "Parameter can be declared with base type",
+								"93,104": "'isColliding' should start with an upper case letter. (Rule 'Types')"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1124,7 +1265,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 125.0,
+	"side_bar_width": 241.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
