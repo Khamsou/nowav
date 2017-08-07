@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour {
 
 	// Mouvement
 	public float Speed;
+	public float MaxSpeed;
 	private float _xMove;
 	private float _zMove;
 	private Vector3 _movement;
@@ -43,25 +44,34 @@ public class PlayerController : MonoBehaviour {
 		// Mouvement
 		_xMove = Input.GetAxis("Horizontal");
 		_zMove = Input.GetAxis("Vertical");
-		_movement = new Vector3(_xMove, 0f, _zMove);
-		_rb.velocity = _movement * Speed * (Time.deltaTime*60);
+		_movement = new Vector3(_xMove, 0f, _zMove) * Speed * (Time.deltaTime*60);
 
-			print(_rb.velocity.y);
+		// Max Vitesse
+		if (_rb.velocity.x > MaxSpeed) {
+			_rb.velocity = new Vector3 (MaxSpeed,	_rb.velocity.y, _rb.velocity.z);
+		} else if (_rb.velocity.x < -MaxSpeed) {
+			_rb.velocity = new Vector3 (-MaxSpeed, _rb.velocity.y, _rb.velocity.z);
+		}
+		if (_rb.velocity.z > MaxSpeed) {
+			_rb.velocity = new Vector3 (_rb.velocity.x,	_rb.velocity.y, MaxSpeed);
+		} else if (_rb.velocity.z < -MaxSpeed) {
+			_rb.velocity = new Vector3 (_rb.velocity.x, _rb.velocity.y, -MaxSpeed);
+		}
+
 		// Saut
 		if (Input.GetButtonDown("Jump") && isGrounded()) {
-			print("jump");
 			_rb.AddForce(Vector3.up * JumpForce * (Time.deltaTime*60), ForceMode.Impulse);
 		}
 
-		// Rotation
 		if (Input.GetButton("Horizontal") || Input.GetButton("Vertical")) {
+			// Rotation
 			_lastXMov = _xMove;
 			_lastZMov = _zMove;
+			// Mouvement
+			_rb.AddForce(_movement, ForceMode.VelocityChange);				
 		}
 		_yRot = Mathf.Atan2(_lastXMov, _lastZMov) * (180 / Mathf.PI);
 		transform.localEulerAngles = new Vector3(_rotation.x, _yRot, _rotation.z);
-
-
 	}
 
 	void LateUpdate() {
