@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\getBackStraight.cs" />
+     <Compile Include="Assets\Scripts\getBackStraight.cs" />
      <Compile Include="Assets\Scripts\grabItem.cs" />
      <Compile Include="Assets\Scripts\isColliding.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />

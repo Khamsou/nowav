@@ -529,10 +529,10 @@
 			}
 		},
 		{
-			"file": "Assets/getBackStraight.cs",
+			"file": "Assets/Scripts/getBackStraight.cs",
 			"settings":
 			{
-				"buffer_size": 2476,
+				"buffer_size": 2484,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Unix"
 			}
@@ -776,6 +776,7 @@
 	],
 	"file_history":
 	[
+		"/D/Projects/nowav/Assets/getBackStraight.cs",
 		"/D/Projects/nowav/Assets/Scripts/PlayerController.cs",
 		"/D/Projects/nowav/Assets/Scripts/CameraController.cs",
 		"/D/Projects/vaporshooter/vaporshooter/Assets/Scripts/CharacterController.cs",
@@ -902,8 +903,7 @@
 		"/D/Projects/monkeyball/monkeyball/monkeyball.sln",
 		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/aireJeuScreen.css",
 		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/common.css",
-		"/C/Users/Khamsou'/Desktop/aireJeu.ascx",
-		"/C/Users/Khamsou'/AppData/Local/Temp/fz3temp-1/accueil.css"
+		"/C/Users/Khamsou'/Desktop/aireJeu.ascx"
 	],
 	"find":
 	{
@@ -1121,32 +1121,31 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Assets/getBackStraight.cs",
+					"file": "Assets/Scripts/getBackStraight.cs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2476,
+						"buffer_size": 2484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1003,
-								1003
+								936,
+								958
+							],
+							[
+								1007,
+								1029
 							]
 						],
 						"settings":
 						{
-							"oops":
-							{
-								"1008,1023": "Cannot convert from UnityEngine.Vector3 to System.Single",
-								"941,956": "Cannot convert from UnityEngine.Vector3 to System.Single"
-							},
 							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 540.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

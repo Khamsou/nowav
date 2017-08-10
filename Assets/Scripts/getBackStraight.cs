@@ -38,8 +38,8 @@ public class getBackStraight : MonoBehaviour {
 		// _adjustRotX = _angleX * (Time.deltaTime * 60);
 		// _adjustRotZ = _angleZ * (Time.deltaTime * 60);
 
-		_adjustRotX = 10 * (Time.deltaTime * 60) * -_rb.angularVelocity;
-		_adjustRotZ = 10 * (Time.deltaTime * 60) * -_rb.angularVelocity;
+		_adjustRotX = 10 * (Time.deltaTime * 60) /** -_rb.angularVelocity*/;
+		_adjustRotZ = 10 * (Time.deltaTime * 60) /** -_rb.angularVelocity*/;
 		
 		// transform.rotation = Quaternion.Slerp(transform.rotation, _originalRotationValue, Time.time * _turnSpeed); 
 
